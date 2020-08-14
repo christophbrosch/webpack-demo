@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Clowny";
+    src: url("./font.otf") format("opentype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: "Clowny";
+    font-size: 200px;
+    /* background: url("./icon.png"); */
+}
